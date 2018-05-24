@@ -1,0 +1,14 @@
+target
+.idea
+.settings
+*.log
+*.log.gz
+*.iml
+.classpath
+.project
+*.rej
+.metadata
+local
+activemq-data
+failed*message
+.DS_Store
